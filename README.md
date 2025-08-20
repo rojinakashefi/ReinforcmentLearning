@@ -4,7 +4,6 @@
 
 This repository contains a comprehensive reinforcement learning (RL) project implemented as part of a coursework assignment. The goal was to explore foundational RL algorithms, compare their performance across various environments, and study advanced techniques including Deep RL. (report.pdf)
 
-------
 
 ## Project Overview
 
@@ -18,11 +17,11 @@ The project is divided into three main parts:
   
   - Random Agent
     
-    <img src="file:///Users/rojina/Desktop/ReinforcementLearning/photos/1.png" title="" alt="1.png" width="410">
+    <img src="https://github.com/rojinakashefi/ReinforcementLearning/blob/main/photos/1.png" title="" alt="1.png" width="410">
   
   - Fixed Agent (hardcoded behavior)
     
-    <img src="file:///Users/rojina/Desktop/ReinforcementLearning/photos/2.png" title="" alt="2.png" width="416">
+    <img src="https://github.com/rojinakashefi/ReinforcementLearning/blob/main/photos/2.png" title="" alt="2.png" width="416">
     
     
   
@@ -30,7 +29,7 @@ The project is divided into three main parts:
   
   - SARSA
     
-    ![3.png](/Users/rojina/Desktop/ReinforcementLearning/photos/3.png)
+    ![3.png](https://github.com/rojinakashefi/ReinforcementLearning/blob/main/photos/3.png)
     
     
 
@@ -46,7 +45,7 @@ The project is divided into three main parts:
   
   - Monster Environment
     
-    <img src="file:///Users/rojina/Desktop/ReinforcementLearning/photos/4.png" title="" alt="4.png" width="396">
+    <img src="https://github.com/rojinakashefi/ReinforcementLearning/blob/main/photos/4.png" title="" alt="4.png" width="396">
 
 - Studied the effects of:
   
@@ -54,15 +53,15 @@ The project is divided into three main parts:
   
   - Learning rate variation
     
-    ![5.png](/Users/rojina/Desktop/ReinforcementLearning/photos/5.png)
+    ![5.png](https://github.com/rojinakashefi/ReinforcementLearning/blob/main/photos/5.png)
   
   - Epsilon (exploration) settings and decay
     
-    ![6.png](/Users/rojina/Desktop/ReinforcementLearning/photos/6.png)
+    ![6.png](https://github.com/rojinakashefi/ReinforcementLearning/blob/main/photos/6.png)
   
   - Model-based learning via Dyna-Q
     
-    ![7.png](/Users/rojina/Desktop/ReinforcementLearning/photos/7.png)
+    ![7.png](https://github.com/rojinakashefi/ReinforcmentLearning/blob/main/photos/7.png)
 
 ### Task 3: Function Approximation and Deep RL
 
@@ -86,7 +85,7 @@ The project is divided into three main parts:
   
   - REINFORCE, Actor-Critic, PPO with entropy regularization
 
-![Screenshot 2025-08-20 at 6.46.53 PM.png](/Users/rojina/Desktop/ReinforcementLearning/photos/Screenshot%202025-08-20%20at%206.46.53 PM.png)
+![Screenshot 2025-08-20 at 6.46.53 PM.png](https://github.com/rojinakashefi/ReinforcementLearning/blob/main/photos/8.png)
 
 ----
 
